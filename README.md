@@ -1,5 +1,5 @@
 ## Description of the datasets
-The folder contains datasets concerning the marginalized gender and ethnic comics creators, including the Cartoonists of Color and Queer Cartoonists databases in both CSV and JSON format. The datasets were collected by hand by Thomas Padilla and Mari Naomi in 2015 and posted on Figshare. Padilla is a Digital Scholarship Librarian at Michigan State University Libraries. Mari Naomi is an award-winning author and illustrator. The datasets are derived from the Cartoonists of Color, Queer Cartoonists, and Disabled Cartoonists databases created and maintained by Naomi. The datasets contain biographical information for 861 marginalized cartoonists (ethnicity, gender, creative roles, location, comic titles, genre, etc.). 
+The folder contains datasets concerning the marginalized gender and ethnic comics creators, including the Cartoonists of Color and Queer Cartoonists databases in both CSV and JSON format. The datasets were collected by hand by [Thomas Padilla](https://figshare.com/authors/Thomas_Padilla/701160) and [Mari Naomi](https://marinaomi.com/) in 2015 and posted on [Figshare](https://figshare.com/articles/dataset/Cartoonists_of_Color_Datasets/1557870?file=2291149). Padilla is a Digital Scholarship Librarian at Michigan State University Libraries. Mari Naomi is an award-winning author and illustrator. The datasets are derived from the [Cartoonists of Color](https://cartoonistsofcolor.com/) and [Queer Cartoonists](https://queercartoonists.com/) databases created and maintained by Naomi. The datasets contain biographical information for 861 marginalized cartoonists (ethnicity, gender, creative roles, location, comic titles, genre, etc.). 
 ### List of variables
 | Header | Description | Dtata Type |
 | --- | --- | --- |
@@ -23,7 +23,7 @@ The topic of the project is the intersectionality of the marginalized gender and
 ### Research question and hypotheses
 Social justice is a popular topic in the field of comics. Cartoonists might represent the complexities of intersectionality and challenge social stereotypes. The purpose of the project is to analyze whether the intersectional experience of cartoonists from marginalized ethnic and gender minority groups influences their focus on gender and LGBTQ+ themes. The project aims to examine the following hypotheses:
 1. Gender minority cartoonists from ethnic minority groups may focus more on LGBTQ+ themes than gender majority cartoonists from the same ethnic groups. 
-2. Gender minority cartoonists from mixed ethnic groups (African American, etc.) may focus more on LGBTQ+ themes than cartoonists from same-gender groups but from other minority ethnic groups. 
+2. Gender minority cartoonists from ethnic majority groups may focus more on LGBTQ+ themes than cartoonists from same-gender groups but from ethnic minority groups. 
 ### Variables 
 To address the above research question and test the hypothesis, the following variables are needed: 
 * Gender: this is a variable that categorizes cartoonists into gender majority (male, female) and gender minority (non-binary, transgender, queer, etc.). 
